@@ -1,0 +1,206 @@
+button
+{
+	background-color: #000000;
+	color:  #FFFFFF;
+	height:  35px;
+	width:  80px;
+	margin: 5px;
+}
+nav ul li
+{
+	list-style-type: none;
+	display: inline-flex; /*places elements in a row*/
+	margin: 2vw; /*spaces outside the li elements from the border*/
+	font-size: large;
+	font-family: sans-serif;
+	cursor: pointer;
+}
+fieldset{
+	border: solid 2px;
+}
+nav a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.login,.register
+{
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 30vw;
+	margin-right: 30vw;
+	background-color:#dff9fb;
+	margin-bottom: 20px;
+	font-size:medium;
+
+}
+#adminDiv{
+	background-color: #dff9fb; 
+	padding-bottom: 10px; 
+	margin-bottom: 10px;
+}
+.reg
+{
+	margin-right: 20vw;
+}
+input
+{
+	height:  30px;
+}
+
+fieldset
+{
+	padding: 20px;
+	border-color: #f9ca24;
+}
+legend.login
+{
+	color: #FFFFFF;
+}
+#login, #register
+{
+	margin-left: 50px;
+	margin-top: 5px;
+}
+button:hover,nav ul li a:hover
+{
+	background-color: transparent;
+	color: #686de0;
+}
+a 
+{
+  color: #149ddd;
+  text-decoration: none;
+}
+main p a:hover
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+form
+{
+	background-color: #dff9fb;
+	padding: 20px;
+	color:  black;
+}
+.footer
+{
+	background-color: #000000;
+	color:  #FFFFFF;
+}
+footer a:hover
+{
+	text-decoration: undeline;
+	color: #c56cf0;
+}
+.centered
+{
+	text-align: center;
+}
+.right
+{
+	float: right;
+}
+.right-align
+{
+	text-align: right;
+}
+.large
+{
+	font-size: large;
+}
+h1
+{
+	color:#25CCF7;
+}
+footer h1
+{
+	color:  #FFFFFF;
+}
+section
+{
+	background-color: #686de0
+}
+#landingDiv
+{
+	padding-top: 60px;
+	padding-bottom: 300px;
+	text-align: center;
+	font-size: x-large;
+}
+body.landing
+{
+	background-image: url("background.jpeg");
+	padding-left: 0;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	color: #FFFFFF;
+
+}
+#shop
+{
+	height: 40px;
+	width:  120px;
+	margin-left: 5vw;
+}
+body.back
+{
+	background-image: url("background.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body
+{
+	width: auto;
+	min-width: 1100px;
+}
+#allClothes
+{
+	margin-top:130px;
+	font-size: large;
+	background-color: #FFFFFF;
+	padding: 10px;
+	color: #000000;
+	margin-right: 65vw;
+}
+.category{
+	margin-left: 50px;
+	margin-bottom: 10px;
+}
+svg{
+	margin: 10px;
+}
+ table,th,td
+{
+	border:2px solid grey;
+}
+table
+{
+	border-collapse:collapse;
+	width:95%;
+  	color: #000000;
+  	margin: 15px;
+	background-color: #dff9fb;
+ 
+}
+td,th
+{
+    height:40px;
+}
+th
+{
+    background-color: #fff200;
+}
+#allAges
+{
+	margin-left: 65vw;
+	margin-bottom:  10px;
+	font-size: large;
+	color: #000000;
+	text-align: right;
+	border: 2-x solid;
+	background-color: #FFFFFF;
+	padding: 10px;
+	padding-left: 5px;
+}
