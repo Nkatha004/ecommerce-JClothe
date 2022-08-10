@@ -62,6 +62,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 To run app use php spark serve on command prompt and access the homepage on http://localhost:8080/clothes/index
 
 JClothe is an ecommerce site that sells clothes.
@@ -82,10 +83,11 @@ Homepage screenshot:
 <img width="947" alt="homepagefooter" src="https://user-images.githubusercontent.com/69391540/184017985-21e4e17f-2db5-40ad-a852-456461214b44.png">
 
 Login Page:
+
 <img width="946" alt="login" src="https://user-images.githubusercontent.com/69391540/184018863-a85eff2c-42eb-48f4-a5d2-03d044712754.png">
 
 Products page:
-<img width="947" alt="products" src="https://user-images.githubusercontent.com/69391540/184018518-5cf7d781-926<img width="945" alt="products1" src="https://user-images.githubusercontent.com/69391540/184018545-ff4e94ad-f066-4c4d-b2bd-200d8b084241.png">
+<img width="947" alt="products" src="https://user-images.githubusercontent.com/69391540/184020275-7fd8c79b-b60e-4930-b4ce-ee730b092dad.png">
 <img width="945" alt="products1" src="https://user-images.githubusercontent.com/69391540/184018608-e8e37516-3061-4ca9-bbe1-a87b5dd6c4a6.png">
 <img width="944" alt="products2" src="https://user-images.githubusercontent.com/69391540/184018648-bab2831c-9b70-4ea9-9ae1-9ce1484cd4f5.png">
 
@@ -97,3 +99,6 @@ Order Confirmation:
 <img width="946" alt="orderconfirmation" src="https://user-images.githubusercontent.com/69391540/184019843-1e025040-3b99-48be-ac62-d803af50caba.png">
 <img width="946" alt="orderconfirmation1" src="https://user-images.githubusercontent.com/69391540/184019853-3ad14e30-eb19-477f-baf6-cf3e2ef6ac86.png">
 
+And so much more functionality 😃! Admin's panel - editing and adding products, viewing purchase analytics amongst others, some API functionality embedded, adding money to wallet, checking the balance, viewing user profile, viewig purchase history among others!!!
+
+Attached screenshots are just but a sneak peek😁!
