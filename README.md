@@ -99,6 +99,4 @@ Order Confirmation:
 <img width="946" alt="orderconfirmation" src="https://user-images.githubusercontent.com/69391540/184019843-1e025040-3b99-48be-ac62-d803af50caba.png">
 <img width="946" alt="orderconfirmation1" src="https://user-images.githubusercontent.com/69391540/184019853-3ad14e30-eb19-477f-baf6-cf3e2ef6ac86.png">
 
-And so much more functionality 😃! Admin's panel - editing and adding products, viewing purchase analytics amongst others, some API functionality embedded, adding money to wallet, checking the balance, viewing user profile, viewig purchase history among others!!!
-
-Attached screenshots are just but a sneak peek😁!
+And so much more functionality 😃! Admin's panel - editing and adding products, viewing purchase analytics amongst others, some API functionality embedded, adding money to wallet, checking the balance, viewing user profile, viewing purchase history among others😁!!!
