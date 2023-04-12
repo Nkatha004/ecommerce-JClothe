@@ -66,20 +66,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## JClothe
 To run app use `php spark serve` on command prompt and access the homepage on http://localhost:8080/clothes/index
 
-JClothe is an ecommerce site that sells clothes online. `MySQL` database was used. You can import the sql file and use the below credentials to access the site.
-
-Existing users: Admin
-Email/Username: khumph@yahoo.com
-Password: humphrey
-
-Client Login
-Register a new user at localhost:8080/clothes/registration and login at localhost:8080/clothes/login
-
-Alternatively, use:
-Email/Username: shassan@gmail.com
-Password: sarahHassan
-
-For best user experience you can create a new user to access the site.
+JClothe is an ecommerce site that sells clothes online. `MySQL` database was used.
 
 Homepage screenshot:
 <img width="943" alt="homepage" src="https://user-images.githubusercontent.com/69391540/184017977-67665695-9b5b-45d6-80bf-d6977a5bbfcc.png">
